@@ -1,0 +1,39 @@
+
+<meta charset="utf-8"/>
+     
+            <h2><B>一言（ヒトコト）</B></h2>
+            <div class="daily a pome">
+              <div class="daily pome" id="qwq"></div>
+              <script>
+                  var st=["<center>你不是一个人<br><center>     ——lmh<br>",
+                          "<center>这不是bzoj原题吗<br><center>      ——hjw<br>",
+                          "<center>我去骗钥匙啦~<br><center>     ——yxy<br>", 
+                          "<center>你无聊吗，快去刷题。<br><center>     ——lmh<br>", 
+                          "<center>loj.ac<br><center>     ——lmh<br>", 
+                          "<center>想和zn谈恋爱<br><center>     ——lmh<br>", 
+                          "<center>zc大人我错了！<br><center>     ——wjd<br>", 
+                          "<center>zn：有没有说出题人谁啊<br><center>yxy：好像是lxq？？<br><center>zn：暴打出题人<center>yxy：老师！！！<br>", 
+                          "<center>学习线性解决a+b问题<br><center>      ——zn<br>", 
+                          "<center>代码已经给出，<br><center> 读者自证不难。<br><center>     ——lrj", 
+                          "<center>啊<br><center>我要女装！<br><center>     ——zzx<br>",
+                          "<center>辛苦了~<br><center>     ——lmh<br>",
+                          "<center>棒！<br><center>     ——lmh<br>",
+                          "<center>学OI后悔三年<br><center>不学OI后悔一辈子/呲牙<br><center>     ——zn<br>",
+                          "<center>又把1e3+7写成1e4+7了……<br><center>干脆叫万柒吧。。<br><center>     ——yxy<br>",
+                          "<center>即得易见平凡，由上自证显然，留作习题答案略，读者自证不难。<br><center>反之亦然同理，推论自然成立，略去过程Q.E.D，由上可知证毕。<br><center>     ——lca",
+                          "<center>我要让zn提头来见我<br><center>     ——lmh<br>",
+                          "<center>这年头 expert 很难么？<br><center>    ——zn<br>",
+                          "<center>成为很厉害很厉害的人，最重要的，就是要热血，永远也不要让你的血凉下去。<br><center>    ——hzwer",
+                          "<center>高中的 OI 刚刚开始，希望不要那么快就凋零。兔纸的时间已经不多，请把自己选择的路，好好走下去。<br><center>   ——Bunnycxk",
+                          "<center>Who laughs last laughs best!<br><center>     ——Emma",
+                          "<center>别哭，眼泪会冻住的。<br><center>     ——那年那兔那些事儿"
+                          ];
+                  var num;
+                  num=Math.floor((Math.random()*22));
+                  document.write(st[num]);
+                  var cli;
+                  
+              </script>
+              <div style="font-size: 1em; text-align: center; line-height: 1.5em; display: none; " id="qwq"></div>
+              <div style="text-align: right;  margin-top: 15px; font-size: 0.9em; color: #666; display: none; " id="qwq"></div>
+            </div>
